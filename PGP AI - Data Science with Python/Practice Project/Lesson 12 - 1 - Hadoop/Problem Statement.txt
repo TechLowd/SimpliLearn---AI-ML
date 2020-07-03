@@ -1,0 +1,11 @@
+PGP AI - Determine the wordcount
+DESCRIPTION
+
+Problem:
+
+To determine the word count of the given Amazon dataset:
+
+Create a MapReduce program to determine the word count of the Amazon dataset
+Submit the MapReduce task to HDFS and run it
+Verify the output
+You can download the additional resources from the link shared - https://www.dropbox.com/sh/99zzg0rn5ekhir5/AACfmgTPUfJI8GuG9LCe2PLSa?dl=0

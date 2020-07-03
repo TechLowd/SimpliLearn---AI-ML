@@ -1,0 +1,13 @@
+PGP AI - Web Scraping of Simplilearn Website
+DESCRIPTION
+
+Problem: 
+
+Scrape the Simplilearn website page and perform the following tasks:
+
+View and print the Simplilearn web page content in a good format
+View the head and title
+Print all the href links present in the Simplilearn web page
+Simplilearn website URL: http://www.simplilearn.com/
+
+Click here to download the additional resources - 

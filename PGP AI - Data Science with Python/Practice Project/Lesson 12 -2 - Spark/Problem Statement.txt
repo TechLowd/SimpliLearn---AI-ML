@@ -1,0 +1,12 @@
+PGP AI - Display all the airports based in New York using PySpark
+DESCRIPTION
+
+Problem:
+
+Use the given dataset to count and display all the airports based in New York using PySpark. Perform the following steps:
+
+View all the airports listed in the dataset
+View only the first 10 records
+Filter the data for all airports located in New York
+Clean up the dataset, if required
+You can download the additional resources from the link shared - https://www.dropbox.com/sh/99zzg0rn5ekhir5/AACfmgTPUfJI8GuG9LCe2PLSa?dl=0
